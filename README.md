@@ -44,9 +44,13 @@ https://www.mit.edu/~amini/LICENSE.md
 
 ## Deployed Heroku Link
 
+https://mysterious-river-95889.herokuapp.com/notes
 
 ## Tests
 
 Tests are not required for this app.
 
 ## Screenshots
+
+![screenshot](public/assets/Base.png)
+![screenshot](public/assets/Note%20Taker.png)
